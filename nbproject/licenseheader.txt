@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Software creado por Miguel Angel Zhañay Guamán
+${licensePrefix}Cifrado y riesgo de demanda por copyright si es necesario ${licensePrefix}
+<#if licenseLast??>
+${licenseLast}
+</#if>
